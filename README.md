@@ -1,4 +1,4 @@
-# MemoryManagementAlgorithms
+# Memory Management Algorithms
 The purpose of this project is to explore the various memory management algorithms for swapping and paging and implement them.
 Simulated Algorithms: FIFO, LRU, LFU, MFU, Random Pick
 
